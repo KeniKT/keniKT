@@ -1,25 +1,20 @@
 ## Hi there 👋, I'm Kenenan Tilaun!
 
-I'm a software engineer with a passion for building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, and more. I thrive in competitive coding, and contributing to open-source communities. Constantly learning and innovating, I enjoy tackling challenges that push the boundaries of technology.
----
-##
+I'm a software engineer with a passion for building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, and more. I thrive in competitive coding and contributing to open-source communities. Constantly learning and innovating, I enjoy tackling challenges that push the boundaries of technology.
+
 ---
 
-### 📊 **GitHub Stats:**
-<div align="center">
- 
-## GitHub Stats  
-
-## GitHub Stats  
+## 📊 **GitHub Stats:**
 
 <div align="center">
   <img src="https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent" height="150" style="margin-right: 10px;" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula" height="150" width="350" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula&card_width=450" height="150" alt="Top Languages" />
 </div>
 
+---
 
-</div>
-### 🚀 **Tech Stack:**
+## 🚀 **Tech Stack:**
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
@@ -36,8 +31,8 @@ I'm a software engineer with a passion for building scalable applications and so
 
 ---
 
----
-### 🌍 **Connect with Me:**
+## 🌍 **Connect with Me:**
+
 <div align="left">
   <a href="https://www.linkedin.com/in/kenean/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
