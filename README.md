@@ -8,8 +8,13 @@ I'm a software engineer with a passion for building scalable applications and so
 ### 📊 **GitHub Stats:**
 <div align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=transparent" height="195" alt="Top Languages" />
+## GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+</div>
+
 </div>
 ### 🚀 **Tech Stack:**
 <div align="left">
