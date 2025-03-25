@@ -1,12 +1,8 @@
 ## Hi there 👋, I'm Kenenan Tilaun!
 
-🚀 I'm a software engineer with a passion for building scalable applications and solving complex problems.
+🚀 I'm a software engineer passionate about building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, Ruby on Rails, Flutter (mobile development), and web development. I specialize in crafting efficient and user-friendly applications for both web and mobile platforms, ensuring seamless user experiences. With a strong foundation in SQL databases (PostgreSQL, MySQL, SQLite), PHP, and backend development, I build robust and scalable solutions.
 
-My expertise spans Python, JavaScript, React, Ruby on Rails, Flutter (mobile development), and web development. I specialize in crafting efficient and user-friendly applications, whether for the web or mobile platforms.
-
-I have a strong background in SQL databases (PostgreSQL, MySQL, SQLite), PHP, and backend development, ensuring robust and scalable solutions. I thrive in competitive coding, actively contribute to open-source communities, and constantly seek new challenges that push the boundaries of technology.
-
-🔹 Always learning, always building.
+I thrive in competitive coding, actively contribute to open-source communities, and continuously seek new challenges that push the boundaries of technology. Whether it's designing scalable architectures, optimizing performance, or developing innovative features, I am always eager to learn, grow, and create impactful solutions.
 
 ---
 
