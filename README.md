@@ -1,6 +1,12 @@
 ## Hi there 👋, I'm Kenenan Tilaun!
 
 I'm a software engineer with a passion for building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, and more. I thrive in competitive coding, and contributing to open-source communities. Constantly learning and innovating, I enjoy tackling challenges that push the boundaries of technology.
+---
+### **  GitHub Readme Streak Stats**
+
+[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent)](https://git.io/streak-stats)
+---
+
 
 ---
 
@@ -29,6 +35,7 @@ I'm a software engineer with a passion for building scalable applications and so
 
 ---
 
+---
 ### 🌍 **Connect with Me:**
 <div align="left">
   <a href="https://www.linkedin.com/in/kenean/" target="_blank">
