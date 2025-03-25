@@ -2,22 +2,15 @@
 
 I'm a software engineer with a passion for building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, and more. I thrive in competitive coding, and contributing to open-source communities. Constantly learning and innovating, I enjoy tackling challenges that push the boundaries of technology.
 ---
-### **  GitHub Readme Streak Stats**
-
-[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent)](https://git.io/streak-stats)
----
-
-
+##
 ---
 
 ### 📊 **GitHub Stats:**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keniKT&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+ 
+[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=transparent" height="195" alt="Top Languages" />
 </div>
-
----
-
 ### 🚀 **Tech Stack:**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
