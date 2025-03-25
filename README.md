@@ -5,10 +5,7 @@ I'm a software engineer with a passion for building scalable applications and so
 ---
 
 ## 📊 **GitHub Stats:**
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula&card_width=700" alt="Top Languages" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent&card_width=700)](https://git.io/streak-stats)
 
 ## 🚀 **Tech Stack:**
 
