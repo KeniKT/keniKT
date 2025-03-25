@@ -5,8 +5,10 @@ I am a software engineer passionate about building scalable applications and sol
 ---
 
 ### 📊 **GitHub Stats:**
+### 📊 **GitHub Stats:**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keniKT&show_icons=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keniKT&theme=dracula&hide_border=false" height="150" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
