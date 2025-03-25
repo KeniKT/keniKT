@@ -7,8 +7,7 @@ I thrive in competitive coding, actively contribute to open-source communities, 
 ---
 
 ## 📊 **GitHub Status:**
-[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent&card_width=900)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent&hide_border=true&border_radius=4.7&card_width=900)](https://git.io/streak-stats)
 ## 🚀 **Tech Stack:**
 
 <div align="center">
