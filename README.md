@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Kenenan Tilaun!
 
-I am a software engineer passionate about building scalable applications and solving complex problems. I have experience in **Python, JavaScript, React, and more**. I enjoy working on freelancing projects like **SIRA**, competitive coding, and open-source contributions.
+I'm a software engineer with a passion for building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, and more. I thrive in competitive coding, and contributing to open-source communities. Constantly learning and innovating, I enjoy tackling challenges that push the boundaries of technology.
 
 ---
 
