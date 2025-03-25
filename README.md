@@ -5,7 +5,7 @@ I'm a software engineer with a passion for building scalable applications and so
 ---
 
 ## 📊 **GitHub Stats:**
-[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent&card_width=900)](https://git.io/streak-stats)
 
 ## 🚀 **Tech Stack:**
 
