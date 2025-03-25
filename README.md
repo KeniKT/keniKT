@@ -10,10 +10,13 @@ I'm a software engineer with a passion for building scalable applications and so
  
 ## GitHub Stats  
 
+## GitHub Stats  
+
 <div align="center">
-  <img src="https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-amber-nu.vercel.app?user=KeniKT&theme=transparent" height="150" style="margin-right: 10px;" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keniKT&layout=compact&langs_count=5&theme=dracula" height="150" width="350" alt="Top Languages" />
 </div>
+
 
 </div>
 ### 🚀 **Tech Stack:**
