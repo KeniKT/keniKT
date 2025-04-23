@@ -1,3 +1,4 @@
+<img src="1.png" alt="GitHub Banner" width="100%" />
 ## Hi there 👋, I'm Kenean Tilaun!
 
 🚀 I'm a software engineer passionate about building scalable applications and solving complex problems. My expertise spans Python, JavaScript, React, Ruby on Rails, Flutter (mobile development), and web development. I specialize in crafting efficient and user-friendly applications for both web and mobile platforms, ensuring seamless user experiences. With a strong foundation in SQL databases (PostgreSQL, MySQL, SQLite), PHP, and backend development, I build robust and scalable solutions.
@@ -7,7 +8,9 @@ I thrive in competitive coding, actively contribute to open-source communities, 
 ---
 
 ## 📊 **GitHub Status:**
+
 [![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=keniKT&theme=highcontrast&card_width=900)](https://git.io/streak-stats)
+
 ## 🚀 **Tech Stack:**
 
 <div align="center">
