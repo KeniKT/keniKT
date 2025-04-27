@@ -1,7 +1,12 @@
 <img src="1.png" alt="GitHub Banner" width="100%" />
-Hi there 👋, I'm Kenean Tilaun!
+:
 
-I'm a software engineer passionate about building scalable, user-friendly web and mobile applications using technologies like Python, JavaScript, React, Ruby on Rails, and Flutter. With strong backend skills and experience in SQL databases, I craft robust solutions and enjoy solving complex problems through competitive coding and open-source contributions.
+👋 Hey there, I'm Kenean Tilaun!
+🚀 Full-Stack Web Developer | Frontend Artist 🎨 + Backend Engineer ⚙️
+💬 Fluent in JavaScript, Node.js, Express, HTML, and CSS — building sleek UIs and powerful APIs.
+🛠️ From pixel-perfect designs to high-performance servers, I love crafting the web from front to back.
+🌟 Always shipping, always learning, always leveling up!
+
 
 ---
 
