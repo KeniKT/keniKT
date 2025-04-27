@@ -1,11 +1,15 @@
 <img src="1.png" alt="GitHub Banner" width="100%" />
 
-👋 **Hey there, I'm Kenean Tilaun!**  
+---
+
+# 👋 **Hi there, I'm Kenean Tilaun!**
+
 🚀 Full-Stack Web Developer | Frontend Artist 🎨 + Backend Engineer ⚙️  
 💬 Fluent in JavaScript, Node.js, Express, HTML, and CSS — building sleek UIs and powerful APIs.  
 🛠️ From pixel-perfect designs to high-performance servers, I love crafting the web from front to back.  
 🌟 Always shipping, always learning, always leveling up!
 
+---
 ---
 
 ## 📊 **GitHub Status:**
