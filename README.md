@@ -1,4 +1,5 @@
 <img src="1.png" alt="GitHub Banner" width="100%" />
+---
 .
 👋 **Hey there, I'm Kenean Tilaun!**  
 🚀 Full-Stack Web Developer | Frontend Artist 🎨 + Backend Engineer ⚙️  
