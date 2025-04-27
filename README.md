@@ -2,7 +2,7 @@
 
 ---
 
-## 👋 **Hi there, I'm Kenean Tilaun!**  
+### 👋 **Hi there, I'm Kenean Tilaun!**  
 🚀 Full-Stack Web Developer | Frontend Artist 🎨 + Backend Engineer ⚙️  
 💬 Fluent in JavaScript, Node.js, Express, HTML, and CSS — building sleek UIs and powerful APIs.  
 🌟 Always shipping, always learning, always leveling up!
