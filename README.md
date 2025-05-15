@@ -1,5 +1,3 @@
-<img src="1.png" alt="GitHub Banner" width="100%" />
-
 ---
 
 ### 👋 **Hi there, I'm Kenean Tilaun!**  
