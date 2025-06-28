@@ -1,10 +1,5 @@
 ---
-
-### 👋 **Hi there, I'm Kenean Tilaun!**  
-🚀 Full-Stack Web Developer | Frontend Artist 🎨 + Backend Engineer ⚙️  
-💬 Fluent in JavaScript, Node.js, Express, HTML, and CSS — building sleek UIs and powerful APIs.  
-🌟 Always shipping, always learning, always leveling up!
-
+**👋 Hi, I'm Kenean Tilaun** — a passionate Full-Stack Web Developer with a strong command of both frontend and backend technologies. I specialize in JavaScript, Node.js, Express, HTML, and CSS, and I enjoy building clean user interfaces and scalable APIs. I’m committed to writing clean code, learning continuously, and creating meaningful digital solutions.
 ---
 
 ## 📊 **GitHub Status:**
