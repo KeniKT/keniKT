@@ -3,7 +3,6 @@
 
 ## 📊 **GitHub Status:**
 
-[![GitHub Streak](https://github-readme-streak-stats-amber-nu.vercel.app?user=keniKT&theme=highcontrast&hide_border=true&card_width=900)](https://git.io/streak-stats)
 
 ## 🚀 **Tech Stack:**
 
