@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Kenean Tilahun
 
-<h3 align="center">🚀 Full-Stack Developer | Backend-Focused | Scalable System Builder</h3>
+<h3 align="center">🚀 Full-Stack Developer | Frontend & Backend Specialist</h3>
 
 <p align="center">
-Building modern, scalable, and maintainable web applications using clean architecture and best engineering practices.
+Building modern, scalable, and user-focused web applications with clean architecture and strong engineering principles.
 </p>
 
 <p align="center">
@@ -22,14 +22,18 @@ Building modern, scalable, and maintainable web applications using clean archite
 
 ## 🧠 About Me
 
-I’m a passionate **Full-Stack Developer** specializing in the JavaScript ecosystem and backend architecture.
+I’m a passionate **Full-Stack Developer** with strong focus on both **Frontend** and **Backend** development.
 
-I focus on writing clean, scalable, and maintainable code while building systems that solve real-world problems.
+On the frontend, I build clean, responsive, and user-centered interfaces.  
+On the backend, I design scalable systems, RESTful APIs, and efficient database architectures.
 
-- 🔭 Currently building full-stack web applications  
-- 🌱 Continuously learning modern technologies  
-- 💡 Strong believer in clean code & software best practices  
-- 🎯 Goal: Build impactful digital solutions that scale  
+I care deeply about performance, maintainability, and writing production-ready code.
+
+- 🎨 Building modern and responsive UI experiences  
+- ⚙️ Designing scalable backend systems and APIs  
+- 🌱 Continuously learning and improving  
+- 💡 Strong believer in clean code & best practices  
+- 🎯 Goal: Deliver impactful digital products that scale  
 
 ---
 
@@ -45,7 +49,7 @@ I focus on writing clean, scalable, and maintainable code while building systems
 
 ---
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
@@ -53,7 +57,7 @@ I focus on writing clean, scalable, and maintainable code while building systems
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org)
@@ -77,23 +81,14 @@ I focus on writing clean, scalable, and maintainable code while building systems
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keniKT&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keniKT&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 What I Bring
 
+✔️ Modern responsive UI development  
+✔️ RESTful API design & integration  
 ✔️ Scalable backend architecture  
-✔️ RESTful API design  
 ✔️ Database modeling & optimization  
 ✔️ Authentication & role-based systems  
-✔️ Clean, maintainable codebases  
-✔️ Strong debugging & problem-solving skills  
+✔️ Clean, maintainable, production-ready code  
 
 ---
 
