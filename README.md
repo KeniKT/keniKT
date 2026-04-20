@@ -191,8 +191,6 @@ const kenean = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=keniKT&color=00FFA3&style=flat-square&label=PROFILE+VIEWS)
-
 ### 🤝 Open to Remote Opportunities & Collaboration
 *Let's build something impactful together.*
 
