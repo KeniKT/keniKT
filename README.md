@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00B4D8,100:6C63FF&height=200&section=header&text=Kenean%20Tilahun&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Mobile&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00B4D8,100:6C63FF&height=200&section=header&text=Kenean%20Tilahun&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -30,7 +30,7 @@ const kenean = {
   name:       "Kenean Tilahun",
   location:   "Addis Ababa, Ethiopia 🇪🇹",
   education:  "BSc Software Engineering @ BITS College (GPA: 3.5/4.0)",
-  role:       "Full-Stack Developer + Mobile Engineer",
+  role:       "Full-Stack Developer",
   passion:    ["Clean Code", "Scalable Systems", "Developer Communities"],
   available:  true,
   remote:     true,
@@ -190,6 +190,11 @@ const kenean = {
 ---
 
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=keniKT&color=00FFA3&style=flat-square&label=PROFILE+VIEWS)
+
+### 🤝 Open to Remote Opportunities & Collaboration
+*Let's build something impactful together.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00B4D8,100:00FFA3&height=120&section=footer" width="100%"/>
 
