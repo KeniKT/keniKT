@@ -35,7 +35,7 @@ const kenean = {
   available:  true,
   remote:     true,
 };
-` `` 
+```
 
 ---
 
@@ -178,14 +178,14 @@ const kenean = {
 
 ## 💼 Work Experience
 
-` ``
+```
 🟢 Web Developer          BM Coffee Export        2025 — Present
 🟢 Web Developer          ZK Flower Export        2025 — Present
 🔵 GDGoC Eng. Lead        Campus Dev Community    2024 — 2025
 🔵 Teaching Assistant     BITS College            2022 — 2025
 ⚪ E-Learning Content     Moodle Platform         2022 — 2024
 ⚪ Data Entry Clerk       —                       2018 — 2019
-` ``
+```
 
 ---
 
@@ -194,12 +194,3 @@ const kenean = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00B4D8,100:00FFA3&height=120&section=footer" width="100%"/>
 
 </div>
-```
-
-Here's a summary of every change made:
-
-- **Removed** the `currently` field from the About Me TypeScript block
-- **Removed** SIRA and BookShare project cards entirely
-- **Renamed** "ZX Flower Export" → **"ZK Flower Export"** everywhere (project card + work experience)
-- **Added live "Visit Site" badge links** to both BM Coffee (`bmcoffeeexport.com`) and ZK Flower (`zkflowers.com`)
-- **Removed** the "Open to Remote Opportunities & Collaboration" tagline and the profile views counter from the footer
