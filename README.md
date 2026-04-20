@@ -132,32 +132,41 @@ const kenean = {
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FFA3&center=true&vCenter=true&width=500&lines=React+%2B+Vite+%2B+Tailwind+%E2%9A%A1;Production+deployed+%F0%9F%9A%80;Real+clients%2C+real+impact+%F0%9F%8C�)](https://git.io/typing-svg)
+
+</div>
+
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">☕ BM Coffee Export</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
         <img src="https://img.shields.io/badge/Production-00FFA3?style=flat-square&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Full_Lifecycle-00B4D8?style=flat-square&logoColor=white"/>
       </p>
       <p>Official production website for Ethiopian coffee exporter. Managed full dev lifecycle: responsive UI, DNS config, hosting, cross-browser compatibility.</p>
       <p align="center">
         <a href="https://bmcoffeeexport.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Site-%2300FFA3.svg?style=for-the-badge&logo=vercel&logoColor=black"/>
+          <img src="https://img.shields.io/badge/🌐%20Visit%20Site-%2300FFA3.svg?style=for-the-badge&logoColor=black"/>
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">🌸 ZK Flower Export</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Production-00FFA3?style=flat-square&logoColor=black"/>
       </p>
       <p>Business showcase for export-oriented company. Stakeholder collaboration, responsive layouts, translated business requirements into a polished web solution.</p>
       <p align="center">
         <a href="https://zkflowers.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit%20Site-%2300B4D8.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🌐%20Visit%20Site-%2300B4D8.svg?style=for-the-badge&logoColor=white"/>
         </a>
       </p>
     </td>
