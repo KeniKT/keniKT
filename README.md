@@ -31,12 +31,11 @@ const kenean = {
   location:   "Addis Ababa, Ethiopia 🇪🇹",
   education:  "BSc Software Engineering @ BITS College (GPA: 3.5/4.0)",
   role:       "Full-Stack Developer + Mobile Engineer",
-  currently:  ["Web Dev @ BM Coffee Export", "Web Dev @ ZX Flower Export"],
   passion:    ["Clean Code", "Scalable Systems", "Developer Communities"],
   available:  true,
   remote:     true,
 };
-```
+` `` 
 
 ---
 
@@ -136,41 +135,31 @@ const kenean = {
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ SIRA — Freelancing App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-      </p>
-      <p>Mobile platform connecting employers with skilled professionals. Real-time data handling, auth system, and scalable architecture focused on usability.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📚 BookShare — Web Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-      </p>
-      <p>Full-stack book sharing web app deployed on Vercel. Responsive UI with modern frontend tooling, optimized for performance and maintainability.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">☕ BM Coffee Export</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Production-00FFA3?style=flat-square&logoColor=black"/>
         <img src="https://img.shields.io/badge/Full_Lifecycle-00B4D8?style=flat-square&logoColor=white"/>
       </p>
       <p>Official production website for Ethiopian coffee exporter. Managed full dev lifecycle: responsive UI, DNS config, hosting, cross-browser compatibility.</p>
+      <p align="center">
+        <a href="https://bmcoffeeexport.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit%20Site-%2300FFA3.svg?style=for-the-badge&logo=vercel&logoColor=black"/>
+        </a>
+      </p>
     </td>
     <td width="50%">
-      <h3 align="center">🌸 ZX Flower Export</h3>
+      <h3 align="center">🌸 ZK Flower Export</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
       <p>Business showcase for export-oriented company. Stakeholder collaboration, responsive layouts, translated business requirements into a polished web solution.</p>
+      <p align="center">
+        <a href="https://zkflowers.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit%20Site-%2300B4D8.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -189,24 +178,28 @@ const kenean = {
 
 ## 💼 Work Experience
 
-```
+` ``
 🟢 Web Developer          BM Coffee Export        2025 — Present
-🟢 Web Developer          ZX Flower Export        2025 — Present
+🟢 Web Developer          ZK Flower Export        2025 — Present
 🔵 GDGoC Eng. Lead        Campus Dev Community    2024 — 2025
 🔵 Teaching Assistant     BITS College            2022 — 2025
 ⚪ E-Learning Content     Moodle Platform         2022 — 2024
 ⚪ Data Entry Clerk       —                       2018 — 2019
-```
+` ``
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=keniKT&color=00FFA3&style=flat-square&label=PROFILE+VIEWS)
-
-### 🤝 Open to Remote Opportunities & Collaboration
-*Let's build something impactful together.*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00B4D8,100:00FFA3&height=120&section=footer" width="100%"/>
 
 </div>
+```
+
+Here's a summary of every change made:
+
+- **Removed** the `currently` field from the About Me TypeScript block
+- **Removed** SIRA and BookShare project cards entirely
+- **Renamed** "ZX Flower Export" → **"ZK Flower Export"** everywhere (project card + work experience)
+- **Added live "Visit Site" badge links** to both BM Coffee (`bmcoffeeexport.com`) and ZK Flower (`zkflowers.com`)
+- **Removed** the "Open to Remote Opportunities & Collaboration" tagline and the profile views counter from the footer
