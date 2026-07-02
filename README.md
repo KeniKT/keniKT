@@ -1,45 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFA3,50:00B4D8,100:6C63FF&height=200&section=header&text=Kenean%20Tilahun&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Kenean%20Tilahun&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Software%20Engineer&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;Flutter+%2B+Firebase+%3D+mobile+magic+%E2%9C%A8;React+%C2%B7+Node.js+%C2%B7+Django+%C2%B7+Laravel;Open+to+Remote+Opportunities+%F0%9F%8C%8D;Let%27s+build+something+impactful!)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenean/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://kenean-tilahun-portfolio.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/keniKT/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:keni232127@gmail.com)
 
 </div>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenean/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FFA3.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://kenean-tilahun-portfolio.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/keniKT/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keni232127@gmail.com)
-
-</div>
+<br/>
 
 ---
 
-## 🧠 About Me
+### About
 
-```typescript
-const kenean = {
-  name:       "Kenean Tilahun",
-  location:   "Addis Ababa, Ethiopia 🇪🇹",
-  education:  "BSc Software Engineering @ BITS College (GPA: 3.5/4.0)",
-  role:       "Full-Stack Developer",
-  passion:    ["Clean Code", "Scalable Systems", "Developer Communities"],
-  available:  true,
-  remote:     true,
-};
-```
+Software Engineer and Full-Stack Developer with four years of experience delivering production-grade web and mobile applications across fintech, AI, and enterprise platforms. Proficient in Python, JavaScript, and TypeScript with strong expertise in React, Node.js, Next.js, Django, and Flutter. Experienced in high-volume systems — including a payments platform that processed over **2 billion Birr in transactions** and a food delivery platform handling **150,000+ monthly orders**. Passionate about clean architecture, scalable system design, and building user-focused solutions that drive real impact.
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <table width="100%">
   <tr>
@@ -53,7 +37,6 @@ const kenean = {
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat-square&logo=ruby&logoColor=white)
 
 </td>
     <td width="50%" valign="top">
@@ -66,9 +49,7 @@ const kenean = {
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
 </td>
   </tr>
@@ -82,92 +63,70 @@ const kenean = {
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=flat-square&logo=fastapi&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat-square&logo=ruby-on-rails&logoColor=white)
 
 </td>
     <td width="50%" valign="top">
 
-**🗄️ Databases & Cloud**
+**🗄️ Databases & Infrastructure**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**🧰 Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-%232088FF.svg?style=flat-square&logo=github-actions&logoColor=white)
 
 </td>
-    <td width="50%" valign="top">
-
-**📊 Data & Others**
-
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-%23F98012.svg?style=flat-square&logo=moodle&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-%2300B4D8.svg?style=flat-square&logoColor=white)
-
-</td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FFA3&center=true&vCenter=true&width=500&lines=React+%2B+Vite+%2B+Tailwind+%E2%9A%A1;Production+deployed+%F0%9F%9A%80;Real+clients%2C+real+impact+%F0%9F%8C�)](https://git.io/typing-svg)
-
-</div>
+### Projects
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">☕ BM Coffee Export</h3>
-      <p align="center">
+    <td width="50%" valign="top">
+      <h4>KinderBeam — Admin Portal</h4>
+      <p>Full-stack kindergarten management portal with JWT authentication, role-based access control, real-time dashboards, and full CRUD operations. Django REST Framework backend deployed on Render.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Production-00FFA3?style=flat-square&logoColor=black"/>
-      </p>
-      <p>Official production website for Ethiopian coffee exporter. Managed full dev lifecycle: responsive UI, DNS config, hosting, cross-browser compatibility.</p>
-      <p align="center">
-        <a href="https://bmcoffeeexport.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20Visit%20Site-%2300FFA3.svg?style=for-the-badge&logoColor=black"/>
-        </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🌸 ZK Flower Export</h3>
-      <p align="center">
+    <td width="50%" valign="top">
+      <h4>BM Coffee Export</h4>
+      <p>Production website for an Ethiopian coffee exporter. Delivered the full development lifecycle — architecture, responsive UI, DNS configuration, hosting, and deployment.</p>
+      <p>
         <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Production-00FFA3?style=flat-square&logoColor=black"/>
       </p>
-      <p>Business showcase for export-oriented company. Stakeholder collaboration, responsive layouts, translated business requirements into a polished web solution.</p>
-      <p align="center">
-        <a href="https://zkflowers.com/" target="_blank">
-          <img src="https://img.shields.io/badge/🌐%20Visit%20Site-%2300B4D8.svg?style=for-the-badge&logoColor=white"/>
-        </a>
+      <a href="https://bmcoffeeexport.com/">bmcoffeeexport.com ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>ZK Flower Export</h4>
+      <p>Business website for a flower export company. Collaborated with stakeholders to translate requirements into a polished, responsive web presence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <a href="https://zkflowers.com/">zkflowers.com ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>BookShare — Web Platform</h4>
+      <p>Full-stack book sharing application with a responsive, user-friendly interface. Optimized for performance and maintainability using modern frontend tooling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -175,34 +134,8 @@ const kenean = {
 
 ---
 
-## 📈 Contribution Graph
-
 <div align="center">
-
-[![Kenean's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=keniKT&bg_color=0d1117&color=00FFA3&line=00B4D8&point=6C63FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<sub>BSc Software Engineering · BITS College · GPA 3.5 / 4.0 &nbsp;|&nbsp; Addis Ababa, Ethiopia &nbsp;|&nbsp; <a href="mailto:keni232127@gmail.com">keni232127@gmail.com</a></sub>
 </div>
 
----
-
-## 💼 Work Experience
-
-```
-🟢 Web Developer          BM Coffee Export        2025 — Present
-🟢 Web Developer          ZK Flower Export        2025 — Present
-🔵 GDGoC Eng. Lead        Campus Dev Community    2024 — 2025
-🔵 Teaching Assistant     BITS College            2022 — 2025
-⚪ E-Learning Content     Moodle Platform         2022 — 2024
-⚪ Data Entry Clerk       —                       2018 — 2019
-```
-
----
-
-<div align="center">
-
-### 🤝 Open to Remote Opportunities & Collaboration
-*Let's build something impactful together.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00B4D8,100:00FFA3&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
